@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: burlywood;
+}
+section {
+    border: 2px dashed black;
+    padding: 10px;
+    margin: 10px
+}
+button {
+    width: 300px;
+    
+}
